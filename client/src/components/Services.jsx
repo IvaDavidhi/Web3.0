@@ -43,7 +43,7 @@ const Services = () => (
           color="bg-[#8945F8]"
           title="Best exchange rates"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
-          subtitle="We offer best exchange rates worldwide"
+          subtitle="We offer best exchange rates and low fees worldwide"
         />
         <ServiceCard
           color="bg-[#F84550]"
