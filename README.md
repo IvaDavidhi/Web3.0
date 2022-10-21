@@ -4,4 +4,4 @@ Project created using Web 3.0 methodologies, Solidity and Metamask, combined wit
 
 
 
-Credits to Javascript Mastery.
+Created with the help of Javascript Mastery.
